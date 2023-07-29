@@ -1,0 +1,11 @@
+img{
+    background: red;
+    width: 512px;
+    height: 512px;
+    margin-top: 20px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
